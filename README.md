@@ -1,7 +1,6 @@
 # Yatra
 
 <ul>
- <li> A travelling web application (same idea as makeMyTrip) </li>
 <li> Created web pages using HTML and CSS and made them dynamic using JavaScript</li>
 <li>Improved UX with multi-select filters, image carousels</li>
 <li> Implemented conditional rendering of page elements</li>
